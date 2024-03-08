@@ -1,0 +1,125 @@
+16:01:07.231 [main] TRACE - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@42fb8c87
+16:01:07.239 [main] TRACE - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@423c5404
+16:01:07.262 [main] DEBUG - -Dio.netty.allocator.numHeapArenas: 8
+16:01:07.262 [main] DEBUG - -Dio.netty.allocator.numDirectArenas: 8
+16:01:07.262 [main] DEBUG - -Dio.netty.allocator.pageSize: 8192
+16:01:07.262 [main] DEBUG - -Dio.netty.allocator.maxOrder: 9
+16:01:07.262 [main] DEBUG - -Dio.netty.allocator.chunkSize: 4194304
+16:01:07.262 [main] DEBUG - -Dio.netty.allocator.smallCacheSize: 256
+16:01:07.263 [main] DEBUG - -Dio.netty.allocator.normalCacheSize: 64
+16:01:07.263 [main] DEBUG - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+16:01:07.263 [main] DEBUG - -Dio.netty.allocator.cacheTrimInterval: 8192
+16:01:07.263 [main] DEBUG - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+16:01:07.263 [main] DEBUG - -Dio.netty.allocator.useCacheForAllThreads: false
+16:01:07.263 [main] DEBUG - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+16:01:07.274 [main] DEBUG - -Dio.netty.allocator.type: pooled
+16:01:07.275 [main] DEBUG - -Dio.netty.threadLocalDirectBufferSize: 0
+16:01:07.275 [main] DEBUG - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+16:01:08.340 [Forwarding newSession on session null to remote] DEBUG - -Dio.netty.processId: 12864 (auto-detected)
+16:01:08.346 [Forwarding newSession on session null to remote] DEBUG - -Djava.net.preferIPv4Stack: false
+16:01:08.346 [Forwarding newSession on session null to remote] DEBUG - -Djava.net.preferIPv6Addresses: false
+16:01:08.360 [Forwarding newSession on session null to remote] DEBUG - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+16:01:08.363 [Forwarding newSession on session null to remote] DEBUG - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+16:01:08.392 [Forwarding newSession on session null to remote] DEBUG - -Dio.netty.machineId: 60:36:dd:ff:fe:e5:47:28 (auto-detected)
+16:01:08.505 [AsyncHttpClient-1-2] DEBUG - -Dio.netty.buffer.checkAccessible: true
+16:01:08.506 [AsyncHttpClient-1-2] DEBUG - -Dio.netty.buffer.checkBounds: true
+16:01:08.506 [AsyncHttpClient-1-2] DEBUG - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3b81f6e
+16:01:08.571 [AsyncHttpClient-1-2] DEBUG - -Dio.netty.recycler.maxCapacityPerThread: 4096
+16:01:08.571 [AsyncHttpClient-1-2] DEBUG - -Dio.netty.recycler.ratio: 8
+16:01:08.571 [AsyncHttpClient-1-2] DEBUG - -Dio.netty.recycler.chunkSize: 32
+16:01:08.572 [AsyncHttpClient-1-2] DEBUG - -Dio.netty.recycler.blocking: false
+16:01:08.572 [AsyncHttpClient-1-2] DEBUG - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+16:01:10.280 [AsyncHttpClient-1-2] DEBUG - brotli4j not in the classpath; Brotli support will be unavailable.
+16:01:10.675 [main] DEBUG - -Dio.netty.initialSeedUniquifier: 0xd66f29fec3be7914
+16:01:16.605 [main] INFO  - Go to MyAccount page and click Login
+16:01:17.612 [main] INFO  - Enter the email and password
+16:01:19.717 [main] INFO  - Login button has clicked
+16:01:19.859 [AsyncHttpClient-1-4] TRACE - Encoding WebSocket Frame opCode=8 length=26
+16:01:30.834 [main] INFO  - Go to MyAccount page and click Login
+16:01:31.787 [main] INFO  - Enter the email and password
+16:01:33.483 [main] INFO  - Login button has clicked
+16:01:33.622 [AsyncHttpClient-1-7] TRACE - Encoding WebSocket Frame opCode=8 length=26
+16:01:44.662 [main] INFO  - Go to MyAccount page and click Login
+16:01:45.576 [main] INFO  - Enter the email and password
+16:01:47.309 [main] INFO  - Login button has clicked
+16:01:47.442 [AsyncHttpClient-1-2] TRACE - Encoding WebSocket Frame opCode=8 length=26
+16:01:58.215 [main] INFO  - Go to MyAccount page and click Login
+16:01:59.517 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:01:59.527 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:01:59.537 [main] DEBUG - Parsing relationship: /_rels/.rels
+16:02:00.003 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+16:02:00.010 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:02:00.013 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:02:00.014 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:02:00.015 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:02:00.018 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:02:00.054 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:02:00.057 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:02:00.077 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:02:00.079 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:02:00.082 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:02:00.085 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:02:00.089 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:02:00.092 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+16:02:00.296 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+16:02:00.299 [main] TRACE - Resolving type for handle themefd26doctype
+16:02:00.456 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+16:02:00.474 [main] TRACE - Resolving type for handle ctstylesheet4257type
+16:02:00.484 [main] TRACE - Resolving type for handle ctfonts6623type
+16:02:00.494 [main] TRACE - Resolving type for handle ctfont14d8type
+16:02:00.518 [main] TRACE - Resolving type for handle ctfills2c6ftype
+16:02:00.523 [main] TRACE - Resolving type for handle ctfill550ctype
+16:02:00.528 [main] TRACE - Resolving type for handle ctborders0d66type
+16:02:00.537 [main] TRACE - Resolving type for handle ctborderf935type
+16:02:00.548 [main] TRACE - Resolving type for handle ctcellxfs1322type
+16:02:00.555 [main] TRACE - Resolving type for handle ctxf97f7type
+16:02:00.563 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+16:02:00.568 [main] TRACE - Resolving type for handle ctdxfsb26atype
+16:02:00.573 [main] TRACE - Resolving type for handle cttablestyles872ftype
+16:02:00.583 [main] TRACE - Resolving type for handle sstf81fdoctype
+16:02:00.600 [main] TRACE - Resolving type for handle ctsst44f3type
+16:02:00.624 [main] TRACE - Resolving type for handle ctrsta472type
+16:02:00.676 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:02:00.680 [main] TRACE - Resolving type for handle workbookec17doctype
+16:02:00.695 [main] TRACE - Resolving type for handle ctworkbook83c3type
+16:02:00.712 [main] TRACE - Resolving type for handle ctsheets49fdtype
+16:02:00.717 [main] TRACE - Resolving type for handle ctsheet4dbetype
+16:02:00.723 [main] TRACE - Resolving type for handle strelationshipid1e94type
+16:02:00.729 [main] TRACE - Resolving type for handle worksheetf539doctype
+16:02:00.746 [main] TRACE - Resolving type for handle ctworksheet530dtype
+16:02:00.767 [main] TRACE - Resolving type for handle ctsheetdata8408type
+16:02:00.775 [main] TRACE - Resolving type for handle ctrowdd39type
+16:02:00.792 [main] TRACE - Resolving type for handle ctcell842btype
+16:02:00.808 [main] TRACE - Resolving type for handle stcellrefe4e0type
+16:02:00.832 [main] TRACE - Resolving type for handle ctcols627ctype
+16:02:00.844 [main] TRACE - Resolving type for handle ctcola95ftype
+16:02:00.888 [main] TRACE - Resolving type for handle cthyperlinks6416type
+16:02:00.895 [main] TRACE - Resolving type for handle cthyperlink0c85type
+16:02:00.914 [main] TRACE - Resolving type for handle stxstringf179type
+16:02:00.920 [main] TRACE - Resolving type for handle stcelltypebf95type
+16:02:04.166 [AsyncHttpClient-1-5] TRACE - Encoding WebSocket Frame opCode=8 length=26
+16:02:14.905 [main] INFO  - Go to MyAccount page and click Login
+16:02:15.845 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:02:15.860 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:02:15.873 [main] DEBUG - Parsing relationship: /_rels/.rels
+16:02:15.961 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:02:19.022 [AsyncHttpClient-1-8] TRACE - Encoding WebSocket Frame opCode=8 length=26
+16:02:32.910 [main] INFO  - Go to MyAccount page and click Login
+16:02:33.916 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:02:33.920 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:02:33.939 [main] DEBUG - Parsing relationship: /_rels/.rels
+16:02:34.004 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:02:37.443 [AsyncHttpClient-1-3] TRACE - Encoding WebSocket Frame opCode=8 length=26
+16:02:49.548 [main] INFO  - Go to MyAccount page and click Login
+16:02:50.537 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:02:50.547 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:02:50.560 [main] DEBUG - Parsing relationship: /_rels/.rels
+16:02:50.653 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:03:02.191 [AsyncHttpClient-1-6] TRACE - Encoding WebSocket Frame opCode=8 length=26
+16:03:12.781 [main] INFO  - Go to MyAccount page and click Login
+16:03:13.692 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:03:13.707 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:03:13.720 [main] DEBUG - Parsing relationship: /_rels/.rels
+16:03:13.791 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:03:16.374 [AsyncHttpClient-1-9] TRACE - Encoding WebSocket Frame opCode=8 length=26
+16:03:33.216 [AsyncHttpClient-1-4] TRACE - Encoding WebSocket Frame opCode=8 length=26
